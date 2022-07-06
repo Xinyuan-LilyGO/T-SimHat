@@ -17,8 +17,6 @@
 #define A7608_PIN_DTR      25
 #define A7608_RESET_PIN    5
 
-
-
 #define BAT_ADC      35
 #define BAT_EN       12
 #define SD_MISO      2

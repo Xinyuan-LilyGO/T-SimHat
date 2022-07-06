@@ -22,7 +22,8 @@
 1. 安装[VSCODE](https://code.visualstudio.com/)和[Python](https://www.python.org/)
 2. 在VSCODE扩展中搜索PlatformIO插件并安装。 
 3. 安装完成，重新加载完成后，左下角会出现一个小房子图标。 单击，进入platform IDE主页 
-4. 进入文件- >打开文件夹- >选择LilyGO-T-SimHat文件夹，点击左下角的(√)符号编译(→)上传。 
+4. 在platformio.ini文件中选择你想编译的草图
+5. 进入文件- >打开文件夹- >选择LilyGO-T-SimHat文件夹，点击左下角的(√)符号编译(→)上传。 
    
 
 <h3 align = "left">Product 📷:</h3>
