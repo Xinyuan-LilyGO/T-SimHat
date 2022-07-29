@@ -1,3 +1,12 @@
+#define PIN_5V_EN    0
+#define RELAY_PIN    32
+#define CAN_TX_PIN   22
+#define CAN_RX_PIN   21
+#define RS485_TX_PIN 19
+#define RS485_RX_PIN 18
+#define RS485_EN_PIN 23
+
+
 #include <Arduino.h>
 #include "config.h"
 #include <HardwareSerial.h>
